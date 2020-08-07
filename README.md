@@ -2,4 +2,12 @@
 
 [Traccia](https://github.com/AndreAzzalin/ServiceMail/blob/master/progettoLab-1617-ProgrIII-V1.pdf)
 
+## Tecnologie
+
+- Java
+- RMI
+- Architettura MVC
+- Java SWING
+- Thread Java
+
 
